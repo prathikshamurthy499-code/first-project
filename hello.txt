@@ -1,2 +1,4 @@
 This is my first GitHub file
 updated hello file
+This is my first GitHub file
+Now I am editing using VS Code
